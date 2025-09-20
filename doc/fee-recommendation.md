@@ -1,9 +1,9 @@
-Dogecoin Fee Recommendation
+Havez Fee Recommendation
 ----------------------------
 
 _last updated for 1.14.6_
 
-The Dogecoin chain has a relatively low block interval, 1 megabyte blockspace
+The Havez (based on Dogecoin so I'll refer to DOGE) chain has a relatively low block interval, 1 megabyte blockspace
 and aims to provide a cheap means for people to transact. Therefore, the biggest
 threat to the Dogecoin chain as a whole is spam and in 2014, a transaction fee
 and dust disincentive were introduced, to combat on-chain spam.
